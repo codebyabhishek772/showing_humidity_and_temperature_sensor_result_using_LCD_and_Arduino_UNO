@@ -4,7 +4,7 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project showing humidity and tempearture sensor result using lcd and arduino uno
 
 Describe your project
 
